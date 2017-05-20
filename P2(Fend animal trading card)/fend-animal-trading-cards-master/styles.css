@@ -1,0 +1,40 @@
+.adjustment
+{
+	width: 300px;
+	height: 200px;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.border
+{
+    border-style: ridge;
+	padding: 5px;
+	
+}
+
+.border1
+{
+	border-style: ridge;
+	padding: 5px;
+	
+	width:320px;
+}
+
+.styl
+{
+	font-style: italic;
+}
+
+.list
+{
+	list-style: none;
+}
+
+.align
+{
+	text-align: center;
+}
